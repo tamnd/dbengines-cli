@@ -1,0 +1,10 @@
+title       = "dbe"
+baseURL     = "https://dbengines-cli.tamnd.com/"
+description = "Browse DB-Engines database ranking"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/dbengines-cli"
